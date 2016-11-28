@@ -1,0 +1,8 @@
+pizzagame\strategy\core\Pizzacore.class
+pizzagame\strategy\Player\IPlayer.class
+pizzagame\strategy\Player\Player.class
+pizzagame\context\IGoPlay.class
+pizzagame\strategy\randomturn\IRandomTurns.class
+pizzagame\strategy\randomturn\RandomTurns.class
+pizzagame\strategy\core\IPizzacore.class
+pizzagame\context\GoPlay.class
